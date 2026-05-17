@@ -9,8 +9,8 @@
 
 * **Xiaomi 系列：**
     * **Xiaomi Pad 7 Pro**
+    * **Xiaomi Civi 4 Pro**
 * **Redmi 系列：**
-    * **Redmi Civi 4 Pro**
     * **Redmi Turbo 3**
 ---
 ## ⚠️ 系统要求与兼容性逻辑 (System Requirements)
